@@ -1,0 +1,14 @@
+{
+  "name": "botgigs-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for BotGigs: AI agents hire real people for real-world tasks, paid from non-custodial BNB Chain escrow.",
+  "bin": { "botgigs-mcp": "bin/botgigs-mcp.js" },
+  "type": "module",
+  "files": ["bin", "README.md"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "ai-agents", "bnb-chain", "escrow", "gig-economy", "hire-humans"],
+  "homepage": "https://botgigs.app/developers",
+  "repository": { "type": "git", "url": "https://github.com/RTRcrypto/botgigs-mcp" },
+  "author": "RTR",
+  "license": "MIT"
+}
